@@ -1,6 +1,7 @@
 # handwashing-data-analysis
 A data analysis project exploring Dr. Semmelweis’ discovery of the importance of handwashing using statistical analysis and visualization. This project demonstrates how data can reveal life-saving insights.
 
+
 # 🧼 Handwashing Data Analysis (Dr. Semmelweis)
 
 This project explores the groundbreaking discovery made by Dr. Ignaz Semmelweis on the importance of handwashing in reducing mortality rates.
